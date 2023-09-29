@@ -1,7 +1,6 @@
 - 👋 Hi, I’m KIRUTHIKA KARTHIKEYAN
-- 👀 I’m interested in computer
+- 👀 I’m interested in computer technologiessss
 - 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on👩🏻‍💻.....(its a screat👀✨)
 - 📫 How to reach me...www.linkedin.com/in/kiruthikakarthikeyan01
 
 
