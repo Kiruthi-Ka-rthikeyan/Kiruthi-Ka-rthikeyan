@@ -1,2 +1,2 @@
 import streamlit as st
-st.title(" hello this is kirthi")
+st.title(" Hello this is Kirthi")
